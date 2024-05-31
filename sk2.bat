@@ -1,12 +1,12 @@
 echo off
 
-cd Savilov
-echo > 07052003.txt
+cd Mironenko
+echo > 08082003.txt
 
-cd Igor
+cd Daria
 echo > ADB_21_08.txt
 
-cd Olegovich
-echo > Asus.txt
+cd Andreevna
+echo > HP.txt
 
 pause

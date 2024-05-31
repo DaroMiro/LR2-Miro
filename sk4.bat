@@ -1,13 +1,13 @@
 echo off
 
-cd Savilov
-cd Igor
-rd Olegovich
+cd Mironenko
+cd Daria
+rd Mironenko
 
 cd..
-rd Igor
+rd Daria
 
 cd..
-rd Savilov
+rd Mironenko
 
 pause

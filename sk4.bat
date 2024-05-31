@@ -2,7 +2,7 @@ echo off
 
 cd Mironenko
 cd Daria
-rd Mironenko
+rd Andreevna
 
 cd..
 rd Daria
